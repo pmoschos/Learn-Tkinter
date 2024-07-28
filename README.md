@@ -31,7 +31,7 @@ By following this course, you will:
 
 | #   | Section                                                                                   |
 |-----|-------------------------------------------------------------------------------------------|
-| 1   | [🌟 Getting Started with Tkinter](#section-1-getting-started-with-tkinter)                 |
+| 1   | 🌟 [Getting Started with Tkinter](#section-1-getting-started-with-tkinter)                 |
 | 2   | [📋 Basic Widgets](#section-2-basic-widgets)                                              |
 | 3   | [🔧 Advanced Widgets](#section-3-advanced-widgets)                                        |
 | 4   | [🔗 Event Handling](#section-4-event-handling)                                            |
