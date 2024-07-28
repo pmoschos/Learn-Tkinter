@@ -305,4 +305,3 @@ Panagiotis Moschos - pan.moschos86@gmail.com
 <p align="center">
   Made with ❤️ by Panagiotis Moschos (https://github.com/pmoschos)
 </p>
-"""
