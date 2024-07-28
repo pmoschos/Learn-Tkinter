@@ -31,16 +31,16 @@ By following this course, you will:
 
 | #   | Section                                                                                   |
 |-----|-------------------------------------------------------------------------------------------|
-| 1   | 🌟 [Getting Started with Tkinter](#section-1-getting-started-with-tkinter)                 |
-| 2   | [📋 Basic Widgets](#section-2-basic-widgets)                                              |
-| 3   | [🔧 Advanced Widgets](#section-3-advanced-widgets)                                        |
-| 4   | [🔗 Event Handling](#section-4-event-handling)                                            |
-| 5   | [🍽️ Menus and Dialogs](#section-5-menus-and-dialogs)                                      |
-| 6   | [🏛️ Object-Oriented Programming](#section-6-object-oriented-programming)                  |
-| 7   | [🎨 Themes and Styles](#section-7-themes-and-styles)                                      |
-| 8   | [📊 Integrating with Other Libraries](#section-8-integrating-with-other-libraries)        |
-| 9   | [🛠️ Advanced Topics](#section-9-advanced-topics)                                          |
-| 10  | [🔧 Examples and Projects](#section-10-examples-and-projects)                             |
+| 1   | 🌟 [Getting Started with Tkinter](#section-1-getting-started-with-tkinter)                |
+| 2   | 📋 [Basic Widgets](#section-2-basic-widgets)                                              |
+| 3   | 🔧 [Advanced Widgets](#section-3-advanced-widgets)                                        |
+| 4   | 🔗 [Event Handling](#section-4-event-handling)                                            |
+| 5   | 🍽️ [Menus and Dialogs](#section-5-menus-and-dialogs)                                      |
+| 6   | 🏛️ [Object-Oriented Programming](#section-6-object-oriented-programming)                  |
+| 7   | 🎨 [Themes and Styles](#section-7-themes-and-styles)                                      |
+| 8   | 📊 [Integrating with Other Libraries](#section-8-integrating-with-other-libraries)        |
+| 9   | 🛠️ [Advanced Topics](#section-9-advanced-topics)                                          |
+| 10  | 🔧 [Examples and Projects](#section-10-examples-and-projects)                             |
 
 
 ## Section 1. Getting Started with Tkinter
