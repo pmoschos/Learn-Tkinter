@@ -1,4 +1,4 @@
-# 🐍 Tkinter GUI Programming Course 🐍
+# 🐍 Tkinter GUI Programming Course 🚀
 
 Welcome to the Tkinter GUI Programming Course! This repository offers a comprehensive set of tutorials designed to guide you through creating desktop applications using Tkinter, from fundamental concepts to advanced techniques.
 
