@@ -18,11 +18,11 @@ entry.pack(pady=10)
 # Customize the styles
 style = ttk.Style()
 style.configure("TButton",
-                font=("Helvetica", 12),
+                font=("Helvetica", 14),
                 foreground="blue")
 
 style.configure("TLabel",
-                font=("Helvetica", 12),
+                font=("Helvetica", 14),
                 foreground="green")
 
 # Apply styles to widgets
