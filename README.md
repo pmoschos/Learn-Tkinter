@@ -51,7 +51,7 @@ Create your first Tkinter program: a simple "Hello, World!" application.
 
 ### [1.2 Working with Tkinter Windows](#)
 🖼️ **Working with Tkinter Windows**  
-Learn how to manipulate various attributes of a Tkinter window including title, size, location, resizability, transparency, and stacking order.
+Learn how to manipulate various attributes of a Tkinter window including title, size, location, resizability, transparency, and st                             acking order.
 
 ### [1.3 Exploring Tk Themed Widgets](#)
 🎨 **Exploring Tk Themed Widgets**  
