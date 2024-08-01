@@ -6,12 +6,12 @@ Welcome to the Tkinter Programming Course! This repository contains a structured
 
 | #    | Topic                                           |
 |------|-------------------------------------------------|
-| 1.01 | [Hello, Tkinter!](https://github.com/pmoschos/Learn-Tkinter/tree/main/Section%2001.%20Getting%20Started%20with%20Tkinter/1.01%20Hello%2C%20Tkinter!)               |
-| 1.02 | [Working with Tkinter Windows](https://github.com/pmoschos/Learn-Tkinter/tree/main/Section%2001.%20Getting%20Started%20with%20Tkinter/1.02%20Working%20with%20Tkinter%20Windows) |
-| 1.03 | [Exploring Tk Themed Widgets](https://github.com/pmoschos/Learn-Tkinter/tree/main/Section%2001.%20Getting%20Started%20with%20Tkinter/1.03%20Exploring%20Tk%20Themed%20Widgets) |
-| 1.04 | [Configuring Widgets](https://github.com/pmoschos/Learn-Tkinter/tree/main/Section%2001.%20Getting%20Started%20with%20Tkinter/1.04%20Configuring%20Widgets)    |
-| 1.05 | [Command Binding in Tkinter](https://github.com/pmoschos/Learn-Tkinter/tree/main/Section%2001.%20Getting%20Started%20with%20Tkinter/1.05%20Command%20Binding%20in%20Tkinter) |
-| 1.06 | [Event Binding Techniques](https://github.com/pmoschos/Learn-Tkinter/tree/main/Section%2001.%20Getting%20Started%20with%20Tkinter/1.06%20Event%20Binding%20Techniques)  |
+| 1.01 | 📘 [Hello, Tkinter!](https://github.com/pmoschos/Learn-Tkinter/tree/main/Section%2001.%20Getting%20Started%20with%20Tkinter/1.01%20Hello%2C%20Tkinter!)               |
+| 1.02 | 🖼️ [Working with Tkinter Windows](https://github.com/pmoschos/Learn-Tkinter/tree/main/Section%2001.%20Getting%20Started%20with%20Tkinter/1.02%20Working%20with%20Tkinter%20Windows) |
+| 1.03 | 🎨 [Exploring Tk Themed Widgets](https://github.com/pmoschos/Learn-Tkinter/tree/main/Section%2001.%20Getting%20Started%20with%20Tkinter/1.03%20Exploring%20Tk%20Themed%20Widgets) |
+| 1.04 | 🔧 [Configuring Widgets](https://github.com/pmoschos/Learn-Tkinter/tree/main/Section%2001.%20Getting%20Started%20with%20Tkinter/1.04%20Configuring%20Widgets)    |
+| 1.05 | 🔗 [Command Binding in Tkinter](https://github.com/pmoschos/Learn-Tkinter/tree/main/Section%2001.%20Getting%20Started%20with%20Tkinter/1.05%20Command%20Binding%20in%20Tkinter) |
+| 1.06 | 🖱️ [Event Binding Techniques](https://github.com/pmoschos/Learn-Tkinter/tree/main/Section%2001.%20Getting%20Started%20with%20Tkinter/1.06%20Event%20Binding%20Techniques)  |
 
 ## [1.01 Hello, Tkinter!](https://github.com/pmoschos/Learn-Tkinter/tree/main/Section%2001.%20Getting%20Started%20with%20Tkinter/1.01%20Hello%2C%20Tkinter!)
 📘 **Hello, Tkinter!**  
