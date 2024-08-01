@@ -45,27 +45,27 @@ By following this course, you will:
 
 ## Section 1. Getting Started with Tkinter
 
-### [1.1 Hello, Tkinter!](#)
+### [1.1 Hello, Tkinter!](https://github.com/pmoschos/Learn-Tkinter/tree/main/Section%2001.%20Getting%20Started%20with%20Tkinter/1.01%20Hello%2C%20Tkinter!)
 🌟 **Hello, Tkinter!**  
 Create your first Tkinter program: a simple "Hello, World!" application.
 
-### [1.2 Working with Tkinter Windows](#)
+### [1.2 Working with Tkinter Windows](https://github.com/pmoschos/Learn-Tkinter/tree/main/Section%2001.%20Getting%20Started%20with%20Tkinter/1.02%20Working%20with%20Tkinter%20Windows)
 🖼️ **Working with Tkinter Windows**  
 Learn how to manipulate various attributes of a Tkinter window including title, size, location, resizability, transparency, and st                             acking order.
 
-### [1.3 Exploring Tk Themed Widgets](#)
+### [1.3 Exploring Tk Themed Widgets](https://github.com/pmoschos/Learn-Tkinter/tree/main/Section%2001.%20Getting%20Started%20with%20Tkinter/1.03%20Exploring%20Tk%20Themed%20Widgets)
 🎨 **Exploring Tk Themed Widgets**  
 Introduction to themed Tk widgets and their customization.
 
-### [1.4 Configuring Widgets](#)
+### [1.4 Configuring Widgets](https://github.com/pmoschos/Learn-Tkinter/tree/main/Section%2001.%20Getting%20Started%20with%20Tkinter/1.04%20Configuring%20Widgets)
 ⚙️ **Configuring Widgets**  
 Learn various methods to set options for a widget.
 
-### [1.5 Command Binding in Tkinter](#)
+### [1.5 Command Binding in Tkinter](https://github.com/pmoschos/Learn-Tkinter/tree/main/Section%2001.%20Getting%20Started%20with%20Tkinter/1.05%20Command%20Binding%20in%20Tkinter)
 🔗 **Command Binding in Tkinter**  
 Learn how to respond to events using command bindings.
 
-### [1.6 Event Binding Techniques](#)
+### [1.6 Event Binding Techniques](https://github.com/pmoschos/Learn-Tkinter/tree/main/Section%2001.%20Getting%20Started%20with%20Tkinter/1.06%20Event%20Binding%20Techniques)
 🔧 **Event Binding Techniques**  
 Learn how to use the `bind()` method to bind events to widgets.
 
